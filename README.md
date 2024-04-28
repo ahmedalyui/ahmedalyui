@@ -3,6 +3,7 @@
 - I’m a first year student
 - I’m interested in programming
 - I’m currently learning artificial intelligence
+- I will show you some of my projects
 - my email for communication : amaly792005@gmail.com   
 
 <!---
